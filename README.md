@@ -1,7 +1,11 @@
 # 3D_Unity
 
-O objetivo  deste  trabalho  passa  por  criar  uma  aplicação,  desenvolvida  de  raiz,  que recorraa serviços webpara correr em browser ou como aplicação para Windows.A aplicação deverá obedeceràs seguintes condições:
+O objetivo  deste  trabalho  passa  por  criar  uma  aplicação,  desenvolvida  de  raiz,  que recorraa serviços webpara correr em browser ou como aplicação para Windows.
+
+A aplicação deverá obedeceràs seguintes condições:
+
 1 -Apresentação  de  interfaces  gráfica  do  utilizador.  
+
 São  requisito  do  trabalho  as seguintes funcionalidades: 
 
 -Campos de pesquisa por país, cidade, rua, ponto de interesse e latitude/longitude. 
