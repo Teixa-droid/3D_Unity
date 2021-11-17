@@ -14,7 +14,9 @@ A aplicação deverá obedecer às seguintes condições:
 
 -	Ecrã inicial com UI e planeta em 3D. Ao carregar num ponto do planeta, a visualização 3D dará lugar a um mapa em 2D com o ponto selecionado no centro, indicado com um marcador 
 
--	Botão para alternar entre 2D e 3D 2 - Mapa em 2D baseado em tiles.  
+-	Botão para alternar entre 2D e 3D 
+
+2 - Mapa em 2D baseado em tiles.  
 
 3 - Possibilidade de pesquisa de rotas entre dois pontos (poderão adicionar à UI campos para o ponto de origem e ponto de destino). 
 
