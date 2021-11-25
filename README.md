@@ -39,5 +39,5 @@ A aplicação deverá obedecer às seguintes condições:
 ![Screenshot](https://github.com/Teixa-droid/3D_Unity/blob/master/loca.JPG?raw=true)
 # 3D
 ![Screenshot](https://github.com/Teixa-droid/3D_Unity/blob/master/globe.JPG?raw=true)
-#2D
+# 2D
 ![Screenshot](https://github.com/Teixa-droid/3D_Unity/blob/master/2d.JPG?raw=true)
