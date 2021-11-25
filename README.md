@@ -1,5 +1,15 @@
 # 3D_Unity
 
+# Tecnologias
+
+- Unity
+
+- Linguagem de programação: C#
+
+- Base de Dados : GeoNames
+
+# Objetivo
+
 O objetivo deste trabalho passa por criar uma aplicação, desenvolvida de raiz, que recorra a serviços web para correr em browser ou como aplicação para Windows. 
 
 A aplicação deverá obedecer às seguintes condições:  
