@@ -23,4 +23,4 @@ A aplicação deverá obedecer às seguintes condições:
 
 
 
-![Screenshot](https://github.com/Teixa-droid/3D_Unity/issues/1#issue-1056591373?raw=true)
+![Screenshot](https://github.com/Teixa-droid/3D_Unity/blob/master/3d.PNG?raw=true)
