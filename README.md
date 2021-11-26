@@ -2,14 +2,6 @@
 
 
 
-# Tecnologias
-
-- Unity
-
-- Linguagem de programação: C#
-
-- Base de Dados : GeoNames
-
 # Objetivo
 
 O objetivo deste trabalho passa por criar uma aplicação, desenvolvida de raiz, que recorra a serviços web para correr em browser ou como aplicação para Windows. 
@@ -43,3 +35,12 @@ A aplicação deverá obedecer às seguintes condições:
 ![Screenshot](https://github.com/Teixa-droid/3D_Unity/blob/master/globe.JPG?raw=true)
 # 2D
 ![Screenshot](https://github.com/Teixa-droid/3D_Unity/blob/master/2d.JPG?raw=true)
+
+
+# Tecnologias
+
+- Unity
+
+- Linguagem de programação: C#
+
+- Base de Dados : GeoNames
