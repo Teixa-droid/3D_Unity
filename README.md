@@ -36,11 +36,9 @@ A aplicação deverá obedecer às seguintes condições:
 # 2D
 ![Screenshot](https://github.com/Teixa-droid/3D_Unity/blob/master/2d.JPG?raw=true)
 
+## Stack utilizada
 
-# Tecnologias
+**Linguagem de programação:** C#
 
-- Unity
+**Base de Dados :** GeoNames
 
-- Linguagem de programação: C#
-
-- Base de Dados : GeoNames
